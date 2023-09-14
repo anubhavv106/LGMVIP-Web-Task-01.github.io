@@ -1,28 +1,29 @@
 
-# Todo App
+# Todo-list Web App
 
 This is a simple web application built using HTML,CSS AND JAVASCRIPT.Users can add, update, and delete todos.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-
-## Features
+## 🚀 Features
 
 - Add new todos with a title.
 - Delete unwanted todos.
 
-## Installation
+## 🛠️ Usage
 
-1. Clone the repository:
-
-   ```bash
+1. Clone this repository: 
+```bash
    git clone https://github.com/uniquebhim/todo-app.git
-   cd todo-app
    ```
-  
-  Feel free to contact me if you have any questions or suggestions.
-  
-  Thank you for using the Todo App! We hope it helps you stay organized and manage your tasks effectively.
+2. Open the `index.html` file in your browser.
 
+## 🧰 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to contribute, provide feedback, and use this project for learning purposes!
