@@ -7,6 +7,8 @@ This is a simple web application built using HTML,CSS AND JAVASCRIPT.Users can a
 
 - Add new todos with a title.
 - Delete unwanted todos.
+- Mark todo as done
+- Clear all button
 
 ## 🛠️ Usage
 
